@@ -1,3 +1,12 @@
-var nome = "Otavio Oliveira";
+/*var nome = "Otavio Oliveira";
 var idade = 23;
-alert(nome + " tem " + idade);
+var frase = "Italia é o melhor time do mundo";
+//alert(nome + " tem " + idade);
+console.log(nome);
+console.log(idade);
+console.log(frase.toUpperCase());
+*/
+
+nome = window.prompt("Digite o seu nome:"+ "");
+res = window.prompt("Oi "+ nome + " Tudo bem? ");
+mais = window.prompt(res);
