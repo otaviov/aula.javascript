@@ -1,1 +1,2 @@
-alert("Meu primeiro js");
+var nome = "Otavio Oliveira";
+alert("Bem Vindo "+ nome);
