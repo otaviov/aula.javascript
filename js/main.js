@@ -2,7 +2,10 @@ function botao(){
     document.getElementById("agradecimento").innerHTML = "<b>Obrigado por clicar</b>"
     //alert("Obrigado por clicar");
 }
-
+function redirecionar(){
+    window.open("https://github.com/otaviov");
+    
+}
 
 //funções
 /*function soma  (n1, n2){
