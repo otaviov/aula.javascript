@@ -1,7 +1,13 @@
+function botao(){
+    alert("Obrigado por clicar");
+}
+
+
 //funções
-function soma  (n1, n2){
+/*function soma  (n1, n2){
     return n1+ n2;
 }
+
 
 function validaIdade(idade){
     var validar;
@@ -15,7 +21,7 @@ function validaIdade(idade){
 
 var idade = prompt("Qual sua idade?");
 console.log(validaIdade(idade));
-
+*/
 
 
 
