@@ -2,6 +2,10 @@
 function soma  (n1, n2){
     return n1+ n2;
 }
+
+function setReplace(frase, nome){
+    frase.replace(nome, novo_nome);
+}
  alert (soma(5, 10));
 
 
