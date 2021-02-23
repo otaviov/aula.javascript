@@ -1,5 +1,6 @@
 function botao(){
-    alert("Obrigado por clicar");
+    document.getElementById("agradecimento").innerHTML = "<b>Obrigado por clicar</b>"
+    //alert("Obrigado por clicar");
 }
 
 
