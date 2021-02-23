@@ -1,3 +1,13 @@
+//Condicionais, laços de repetição.
+var idade = prompt("qual sua idade?");
+if(idade >= 18){
+    alert("maior de idade");
+}
+else{
+    alert("menor de idade");
+}
+
+
 /*var nome = "Otavio Oliveira";
 var idade = 23;
 var frase = "Italia é o melhor time do mundo";
@@ -20,11 +30,4 @@ lista.push("Uva");
 console.log(lista);
 */
 
-//Condicionais, laços de repetição.
-var idade = prompt("qual sua idade?");
-if(idade >= 18){
-    alert("maior de idade");
-}
-else{
-    alert("menor de idade");
-}
+
