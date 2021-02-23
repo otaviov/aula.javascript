@@ -6,6 +6,13 @@ function redirecionar(){
     window.open("https://github.com/otaviov");
     
 }
+function trocar(){
+    document.getElementById("mouse move").innerHTML = "Obrigado por passar o mouse";
+    //alert("Trocar texto"); 
+}
+function voltar(){
+    document.getElementById("mouse move").innerHTML = "Passe o mouse aqui";
+}
 
 //funções
 /*function soma  (n1, n2){
