@@ -14,6 +14,17 @@ mais = window.prompt(res);
 */
 
 // arrays
+/* 
 var lista = ["maça, pera, laranja"];
 lista.push("Uva");
 console.log(lista);
+*/
+
+//Condicionais, laços de repetição.
+var idade = 18;
+if(idade >= 18){
+    alert("maior de idade");
+}
+else{
+    alert("menor de idade");
+}
