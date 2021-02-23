@@ -21,7 +21,7 @@ console.log(lista);
 */
 
 //Condicionais, laços de repetição.
-var idade = 18;
+var idade = prompt("qual sua idade?");
 if(idade >= 18){
     alert("maior de idade");
 }
