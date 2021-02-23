@@ -1,8 +1,14 @@
-//Laços de repetição
+//data
+var date = new Date();
+alert(date);
 
-for(var cont = 0; cont <=5;cont ++){
+
+
+//Laços de repetição
+/*for(var cont = 0; cont <=5;cont ++){
     console.log(cont);
 }
+*/
 /*
 var cont = 0;
 while (cont <=5){
