@@ -1,4 +1,16 @@
+//Laços de repetição
+var cont = 0;
+while (cont <=5){
+    console.log(cont);
+    cont++;
+}
+
+
+
+
+
 //Condicionais, laços de repetição.
+/*
 var idade = prompt("qual sua idade?");
 if(idade >= 18){
     alert("maior de idade");
@@ -6,6 +18,7 @@ if(idade >= 18){
 else{
     alert("menor de idade");
 }
+*/
 
 
 /*var nome = "Otavio Oliveira";
