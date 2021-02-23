@@ -7,6 +7,13 @@ console.log(idade);
 console.log(frase.toUpperCase());
 */
 
+/*
 nome = window.prompt("Digite o seu nome:"+ "");
 res = window.prompt("Oi "+ nome + " Tudo bem? ");
 mais = window.prompt(res);
+*/
+
+// arrays
+var lista = ["maça, pera, laranja"];
+lista.push("Uva");
+console.log(lista);
